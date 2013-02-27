@@ -1,0 +1,20 @@
+4 SubSonic.TemplatesVB.vbproj
+1 VisualBasicViews.vbproj
+1 vb-failures.vbproj
+1 vb-money.vbproj
+1 vb-syntax.vbproj
+1 SecureSyncWrapper.vbproj
+1 LainBnetCore.vbproj
+1 LainEthLite.vbproj
+1 LainHelper.vbproj
+1 LainSocket.vbproj
+1 DataGridViewRadioButton.vbproj
+1 DataGridViewRadioButtonExample.vbproj
+1 MSBuild Runner.vbproj
+1 ArmoryInfoDownloader.vbproj
+1 BankParser.vbproj
+1 mykad.runner.vbproj
+1 Tabuk.Mykad.vbproj
+1 Tabuk.MyKad.Reader.vbproj
+1 DNSServiceBrowser.VB.vbproj
+1 SimpleChat.VB.vbproj

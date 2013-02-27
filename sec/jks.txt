@@ -1,0 +1,8 @@
+8 client.jks
+4 service.jks
+2 sts.jks
+2 server_keystore.jks
+1 cacerts.jks
+1 ftpserver.jks
+1 agent.jks
+1 trust.jks
