@@ -25,3 +25,6 @@
 1 dbsessmgr2.exe.mdb
 1 Tests.XSP.Security.dll.mdb
 1 test.mdb
+1 HaskellBag.exe.mdb
+1 mysdr.mdb
+1 EPSG_v61.mdb

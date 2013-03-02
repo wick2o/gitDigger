@@ -1,9 +1,13 @@
-16 server.key
-15 client.key
+18 server.key
+17 client.key
 8 rhodes_pid.key
-4 ca.key
+5 ca.key
 2 ParseKit.key
+2 Presentation.key
 2 agent.key
+2 dtlsc.key
+2 dtls.key
+2 dtlsCA.key
 2 pass.key
 2 test.key
 2 test-key-no-password.key
@@ -24,12 +28,9 @@
 2 rt-test-at-example.com.2.secret.key
 2 rt-test-at-example.com.public.key
 2 rt-test-at-example.com.secret.key
+2 privateKey.key
 1 ssl-cert-snakeoil.key
 1 spotify_appkey.key
-1 Presentation.key
-1 dtlsc.key
-1 dtls.key
-1 dtlsCA.key
 1 backports.key
 1 multimedia.key
 1 angelo.key
@@ -72,3 +73,12 @@
 1 sender@example.com.key
 1 tdd_iphone.key
 1 sharding_with_keyfile.key
+1 wildcard.key
+1 Presentacion.key
+1 live_api.key
+1 sandbox_api.key
+1 cert.key
+1 PhosphorEssence Priceless Equipment.key
+1 array.diff.key
+1 array.intersect.key
+1 presentasi.key

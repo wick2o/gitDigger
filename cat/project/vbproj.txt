@@ -1,5 +1,5 @@
 4 SubSonic.TemplatesVB.vbproj
-1 VisualBasicViews.vbproj
+2 VisualBasicViews.vbproj
 1 vb-failures.vbproj
 1 vb-money.vbproj
 1 vb-syntax.vbproj
@@ -18,3 +18,8 @@
 1 Tabuk.MyKad.Reader.vbproj
 1 DNSServiceBrowser.VB.vbproj
 1 SimpleChat.VB.vbproj
+1 SumAndDiffVB.vbproj
+1 xrpgen.vbproj
+1 LABjs.Net.vbproj
+1 LABjs.Sample.vbproj
+1 NetCompressor.vbproj

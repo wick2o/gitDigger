@@ -3,6 +3,7 @@
 2 OBCSharpBindings.suo
 2 LoadTester.suo
 2 Ucionica - TEST.suo
+2 ipInfo.suo
 1 PetriNet1.suo
 1 hw3.suo
 1 Umlet.suo
@@ -75,3 +76,20 @@
 1 MixerPlus.suo
 1 json.suo
 1 Kontaktr.suo
+1 COIOSHelper.suo
+1 ShellLink.suo
+1 MarioTest.suo
+1 ImageEditor.suo
+1 tr_checkout.suo
+1 ui.suo
+1 UIDemo.suo
+1 UITest.suo
+1 DrutNET.suo
+1 LibCurlNet.suo
+1 Source.suo
+1 Tests.suo
+1 ipHash.suo
+1 RecursiveHasher.suo
+1 SyslogSpoof.suo
+1 FreeForm.suo
+1 LinksRUs.suo
