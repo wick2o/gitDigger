@@ -1,2 +1,8 @@
 44 ECLIPSEF.RSA
+2 bcsstk01.rsa
 2 ECLIPSE.RSA
+1 lund_a.rsa
+1 UNSIGNED.RSA
+1 keyit.rsa
+1 PRIVATEK.RSA
+1 JBossPublicKey.RSA
