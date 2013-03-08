@@ -1,2 +1,5 @@
-1 UNSIGNED.DSA
+1 build_indri.dsa
+1 build_lemur.dsa
+1 build.dsa
 1 keyit.dsa
+1 UNSIGNED.DSA
