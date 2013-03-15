@@ -1,0 +1,4 @@
+3 key-only.kdbx
+3 keyfile.kdbx
+3 test.kdbx
+2 no-encrypt.kdbx

@@ -6961,7 +6961,7 @@
 6 ntp@isl.mei.co.jp
 6 numlock@freesurf.ch
 6 nuppla@gmx.at
-6 obtained
+6 obtained aem@aber.ac.uk
 6 ocfs2-tools-devel@oss.oracle.com
 6 ohad@bencohen.org
 6 okir@suse.de
@@ -7860,7 +7860,7 @@
 6 X1emailAddress=ca@digsigtrust.com
 6 YoungEeay@mincom.oz.au
 6 Yves.Arrouye@marin.fdn.fr
-6 Zlatko.Calusic@CARNet.hr
+6 Zlatko.Calusic@CARNet.hr et
 6 a.arnold@kfa-juelich.de
 6 a.geser@cox.net
 6 a.gruenbacher@computer.org
@@ -8829,7 +8829,7 @@
 6 jhcaiced@osso.org.co
 6 jheffner@psc.edu
 6 jheffner@sc.edu
-6 jid=remko@fab4.be
+6 jid=remko@fab4.be eremko@ulyssis.org
 6 jikos@jikos.cz
 6 jim.weirich@gmail.com
 6 jimd@esoft.com
@@ -12284,7 +12284,7 @@
 3 aconbere@conbere.org
 3 adam.mckaig@gmail.com
 3 adamhadani@gmail.com
-3 adapted
+3 adapted php.net
 3 adi@sieker.info
 3 adicarlo@sourceforge.net
 3 admin@djangoproject.com
@@ -12649,7 +12649,7 @@
 3 dorssel@rulhmpc49.LeidenUniv.nl
 3 dou@siconix.com
 3 doug@dougma.com
-3 dozen
+3 dozen tut@dozen.ru
 3 dpatel@apple.com
 3 dpchiesa@hotmail.com
 3 drag@test.com.br
@@ -13193,7 +13193,7 @@
 2 dwh@ovro.caltech.edu
 2 dwheeler@dwheeler.com
 2 dwilson@fulcrummicro.com
-2 dwsharp@hotmail.comRony
+2 dwsharp@hotmail.comRony G.
 2 dz@bitxtender.com
 2 e.allaud@wanadoo.fr
 2 e.g.&nbspfacet.field
@@ -15102,7 +15102,7 @@
 2 krab@gnu.org
 2 kral@paranoici.org
 2 kraven@kraven.org
-2 krh@redhat.com
+2 krh@redhat.com stefanr@s5r6.in-berlin.de
 2 kris@hub.freebsd.org
 2 kris@obsecurity.org
 2 krishna@emptybox.org
@@ -16031,7 +16031,7 @@
 2 Jeepster@gmx.co.uk
 2 Jeremy.Boutier@betc.eurorscg.fr
 2 Jerome.Plut@ens.fr
-2 Jonas
+2 Jonas Munsin jmunsin@iki.fi
 2 Jones@Group.Org
 2 Jones@Host.Net
 2 Jones@foo.com
@@ -17424,7 +17424,7 @@
 1 Mark.Debbage@superh.com
 1 Mark.Donszelmann@cern.ch
 1 Mark.Trettin@@gmx.de
-1 Martijn
+1 Martijn Pieterse pieterse@xs4all.nl
 1 MateoemailAddress=alberto@migasfree.org
 1 Matt.Waddel@freescale.com
 1 MattPat@mattpat.net
@@ -17458,7 +17458,7 @@
 1 Michael.Ringe@gmx.de
 1 Michal.Mnuk@risc.uni-linz.ac.at
 1 Michal@Hrusecky.net
-1 Michel
+1 Michel Billaud billaud@labri.fr
 1 MikeM@RetekSolutions.com
 1 Montulli@ukanaix.cc.ukans.edu
 1 Morbi.accumsan.laoreet@Sedcongueelit.edu
@@ -17773,7 +17773,7 @@
 1 Remo.Badii@@psi.ch
 1 Reply-jim@gilliam.com
 1 Reply-test@example.org
-1 Reported
+1 Reported by Martin.Quinson@ens-lyon.fr
 1 Richard.Curnow@superh.com
 1 RichardNauber@web.de
 1 RodneyBrown@mynd.com
@@ -22789,7 +22789,7 @@
 1 ivanyi@internet.sk
 1 ivenvd@gmail.com
 1 iverg@mail.ru
-1 ivey@gweezlebur.com
+1 ivey@gweezlebur.com for
 1 ivo@ibuildings.com
 1 ivoras@gmail.com
 1 ixos01@gmail.com
@@ -23014,7 +23014,7 @@
 1 jhi@google.com
 1 jhirth@kaioa.com
 1 jhs@cvsgnome.org
-1 jid
+1 jid user@example.com
 1 jid=albrecht@denmark.lit
 1 jid=frank@denmark.lit
 1 jid=hugo@denmark.lit
@@ -26334,7 +26334,7 @@
 1 privateuser@example.com
 1 prlw1@newn.cam.ac.uk
 1 pro@grenlibre.fr
-1 problem
+1 problem reported by jaymz@free.fr
 1 proff@suburbia.net
 1 project+model+id@app.server.com
 1 project.email_notifier.alexch+erectorci@gmail.com
@@ -28485,7 +28485,7 @@
 1 types@iana.org
 1 typhoonz@parodius.com
 1 typical_email.address@email.com
-1 tytso@mit.edu
+1 tytso@mit.edu adilger@sun.com
 1 u-boot@linuxnotincluded.org.uk
 1 u.fake@google.com
 1 u.jdoe@email.com
@@ -29399,7 +29399,7 @@
 1 zebasoftis@gmail.com
 1 zecke@openmoko.com
 1 zeev@php.net
-1 zeev@zend.com
+1 zeev@zend.com                                |
 1 zeevread@pb1.pair.com
 1 zeisberg@informatik.uni-freiburg.de
 1 zellers@mac.com

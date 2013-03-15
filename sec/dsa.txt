@@ -1,5 +1,10 @@
+18 APTANA.DSA
+3 UNSIGNED.DSA
+2 MOJANG_C.DSA
+1 APPLEPRO.DSA
+1 JCE_DSA.DSA
+1 NB-JWS.DSA
 1 build_indri.dsa
 1 build_lemur.dsa
 1 build.dsa
 1 keyit.dsa
-1 UNSIGNED.DSA
