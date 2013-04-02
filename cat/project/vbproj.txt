@@ -1,74 +1,107 @@
-48 DbLinq.MySql_test_vb.vbproj
-40 vb-failures.vbproj
-40 vb-money.vbproj
-40 vb-syntax.vbproj
-35 SubSonic.TemplatesVB.vbproj
-31 VisualBasicViews.vbproj
+71 DbLinq.MySql_test_vb.vbproj
+44 vb-failures.vbproj
+44 vb-money.vbproj
+44 vb-syntax.vbproj
+37 RomanNumerals.vbproj
+37 RomanNumeralsTests.vbproj
+36 SubSonic.TemplatesVB.vbproj
+34 VisualBasicViews.vbproj
+32 BadPaint.vbproj
+32 CommentChecker.vbproj
+32 DiskUse.vbproj
+32 IronTunes.vbproj
+32 WinFormsMapPoint.vbproj
+26 Raven.Client.VisualBasic.Tests.vbproj
 24 SimpleVB.vbproj
 20 cacti_win32_service.vbproj
 16 sample.vbproj
-15 BadPaint.vbproj
-15 CommentChecker.vbproj
-15 DiskUse.vbproj
-15 IronTunes.vbproj
-15 WinFormsMapPoint.vbproj
 13 OpenIdRelyingPartyWebFormsVB.vbproj
-13 Raven.Client.VisualBasic.Tests.vbproj
-10 HelloWindowsForms.vbproj
-10 WinForms.vbproj
-9 FirefoxTabControl.vbproj
+12 HelloWindowsForms.vbproj
+12 WinForms.vbproj
+11 WebsitePanel.Providers.Mail.ArgoMail.vbproj
+11 WebsitePanel.Providers.Mail.hMailServer5.vbproj
+11 WebsitePanel.Providers.Mail.hMailServer.vbproj
+11 WebsitePanel.Providers.Mail.hMailServer43.vbproj
+11 WebsitePanel.Providers.Mail.MailEnable.vbproj
+11 WebsitePanel.Providers.Mail.MDaemon.vbproj
+11 WebsitePanel.Providers.Mail.Merak.vbproj
+11 WebsitePanel.Providers.Mail.Merak10.vbproj
 9 EBAWebComboVisualBasicSamples.vbproj
 9 GridVisualBasicSamples.vbproj
+9 FirefoxTabControl.vbproj
+8 Krs.Ats.VBTestApp.vbproj
 8 LainBnetCore.vbproj
 8 LainEthLite.vbproj
 8 LainHelper.vbproj
 8 LainSocket.vbproj
-8 Genetibase.MathX.NuGenCurvesAndCo-ordinates.vbproj
 8 FakeIconEditor.vbproj
 8 ExpTreeLib.vbproj
-7 Krs.Ats.VBTestApp.vbproj
-7 NUnitTestProjectVisualBasic.vbproj
+8 Genetibase.MathX.NuGenCurvesAndCo-ordinates.vbproj
+7 DotMatrix.vbproj
+7 Genetibase.UI.NuGenAbout.vbproj
+7 mRemoteV1.vbproj
+7 Bowling.vbproj
+7 Specs.vbproj
 7 NotLogging.vbproj
 7 SharedModule.vbproj
 7 SimpleApp.vbproj
 7 SimpleModule.vbproj
 7 ConsoleApp.vbproj
 7 WebApp.vbproj
-7 DotMatrix.vbproj
-7 Genetibase.UI.NuGenAbout.vbproj
-6 WindowsApplication1.vbproj
-6 test.vbproj
+7 NUnitTestProjectVisualBasic.vbproj
+7 WindowsApplication1.vbproj
 6 ExternalStepsVB.vbproj
 6 NuGenVizDOCDB.vbproj
 6 FakeMinesweeper.vbproj
+6 example_executor_vbnet_vs7.vbproj
+6 example_executor_vbnet_vs8.vbproj
+6 test.vbproj
 5 ControlReflector.vbproj
 5 CommandManager.vbproj
 5 NuGenTabOrder.vbproj
-5 example_executor_vbnet_vs7.vbproj
-5 example_executor_vbnet_vs8.vbproj
 5 Page118No2.vbproj
 5 ghost configurator.vbproj
 5 vb.vbproj
-4 Bowling.vbproj
-4 Specs.vbproj
-4 vb-sample.vbproj
-4 vb-sample_VS2005.vbproj
+5 NLog.VBTest.vbproj
+5 vb-sample.vbproj
+5 vb-sample_VS2005.vbproj
+5 NHaml.Samples.Mvc.VisualBasic.vbproj
+4 TestGit2.vbproj
+4 Page163No1.vbproj
+4 prjClassDesigner.vbproj
+4 Genetibase.MathX.NuGenAlgebricEquations.vbproj
+4 Genetibase.Mathx.NuGenNumericOperations.vbproj
+4 Genetibase.MathX.NuGenMatrixOperations.vbproj
 4 Genetibase Diagram Client Library.vbproj
 4 Genetibase Diagram Drawing Library.vbproj
 4 Genetibase Diagram Library.vbproj
 4 Genetibase Diagram Server Library.vbproj
 4 Genetibase Model Diagram Designer.vbproj
 4 MiniBar.vbproj
-4 Genetibase.MathX.NuGenAlgebricEquations.vbproj
-4 Genetibase.Mathx.NuGenNumericOperations.vbproj
-4 Genetibase.MathX.NuGenMatrixOperations.vbproj
-4 mRemoteV1.vbproj
-4 TestGit2.vbproj
-4 Page163No1.vbproj
+3 HomeworkManager.vbproj
+3 LQVA.vbproj
+3 testlqva.vbproj
+3 Common.vbproj
+3 RealmServer.vbproj
+3 VoiceServer.vbproj
+3 WorldCluster.vbproj
+3 WorldServer.vbproj
+3 DBC Reader.vbproj
+3 PacketLogger.vbproj
+3 WoWMap.vbproj
+3 CreateZipFile.vbproj
+3 minibzip2.vbproj
+3 viewzipfile.vbproj
+3 FaceDetectionVB.vbproj
+3 AutoSHSH.vbproj
+3 SalaryCalculation.vbproj
+3 SalaryCalculation.Tests.vbproj
+3 Rhino.Mocks.Demo.VB.vbproj
+3 Kristins_Game.vbproj
+3 SampleVb.vbproj
 3 DNSServiceBrowser.VB.vbproj
 3 SimpleChat.VB.vbproj
 3 PartCover.TestTarget.VB.vbproj
-3 SampleVb.vbproj
 3 NuGenVizDoc.vbproj
 3 InfinoteC1PrintPreview2003.vbproj
 3 InfinoteC1PrintPreview2005.vbproj
@@ -81,52 +114,11 @@
 3 ProjectExport-AddIn.vbproj
 3 NavigationBar.vbproj
 3 Example1.vbproj
-3 HomeworkManager.vbproj
-3 NHaml.Samples.Mvc.VisualBasic.vbproj
-3 NLog.VBTest.vbproj
-3 LQVA.vbproj
-3 testlqva.vbproj
-3 Common.vbproj
-3 RealmServer.vbproj
-3 VoiceServer.vbproj
-3 WorldCluster.vbproj
-3 WorldServer.vbproj
-3 DBC Reader.vbproj
-3 PacketLogger.vbproj
-3 WoWMap.vbproj
-3 AutoSHSH.vbproj
-3 FaceDetectionVB.vbproj
-3 Kristins_Game.vbproj
-3 SalaryCalculation.vbproj
-3 SalaryCalculation.Tests.vbproj
-3 Rhino.Mocks.Demo.VB.vbproj
-2 WiimoteTest.vbproj
-2 TicketGenerator.vbproj
-2 AspNetAjaxVB.vbproj
-2 AspNetMvcVB.vbproj
-2 QuickstartVB.vbproj
-2 SamplesVB.vbproj
-2 Example VbNet.vbproj
-2 DropNet.Samples.VB.vbproj
-2 vCardViewer.vbproj
-2 vb_local_lat.vbproj
-2 vb_local_thr.vbproj
-2 vb_remote_lat.vbproj
-2 vb_remote_thr.vbproj
-2 TinyMUX.Win32.ControlPanel.vbproj
-2 TinyMUX.Win32.Service.vbproj
-2 TableEditor.vbproj
-2 RateServiceExampleVB.vbproj
-2 2003-VB.Example.vbproj
-2 2005-VB.Example.vbproj
-2 VB.Example.old.vbproj
-2 SumAndDiffVB.vbproj
-2 xrpgen.vbproj
-2 exceptions_VB.vbproj
-2 igf.vbproj
-2 igf.Tests.vbproj
-2 Page234No4.vbproj
-2 AppVB.vbproj
+2 VBNETFlashEncoderSample.vbproj
+2 CtrlGallery.vbproj
+2 TaskBox.vbproj
+2 Cycler.vbproj
+2 SmoothTabControl.vbproj
 2 Genetibase.MathX.NugenCCalc.Adapters.vbproj
 2 Genetibase.MathX.NeGenDistribution.vbproj
 2 Genetibase.MathX.NuGenProbability.vbproj
@@ -139,28 +131,305 @@
 2 NuGen Scientific Calculator.vbproj
 2 NuGenScientificCalculator.vbproj
 2 Genetibase.MathX.NuGenSciMathII.vbproj
-2 CtrlGallery.vbproj
-2 TaskBox.vbproj
-2 Cycler.vbproj
-2 SmoothTabControl.vbproj
 2 RibbonPad.vbproj
 2 SDC-1.vbproj
 2 RACDView.vbproj
-2 GPS Diagnostics CF (VB.NET).vbproj
-2 GPS Diagnostics (VB.NET).vbproj
-2 blackbreeze.vbproj
-2 iDetector.vbproj
-2 CreateZipFile.vbproj
-2 minibzip2.vbproj
-2 viewzipfile.vbproj
+2 VisualBasic.01.HelloWorld.vbproj
+2 VisualBasic.02.3DSound.vbproj
+2 AppVB.vbproj
+2 Examples.VB.vbproj
+2 Templates.VB.vbproj
+2 UnitTests.Linq.VisualBasic.vbproj
+2 WiimoteTest.vbproj
+2 DropNet.Samples.VB.vbproj
+2 MongoDB.DriverUnitTestsVB.vbproj
+2 TinyMUX.Win32.ControlPanel.vbproj
+2 TinyMUX.Win32.Service.vbproj
+2 TableEditor.vbproj
+2 TicketGenerator.vbproj
+2 AspNetAjaxVB.vbproj
+2 AspNetMvcVB.vbproj
+2 QuickstartVB.vbproj
+2 SamplesVB.vbproj
+2 Example VbNet.vbproj
+2 gbase_demo.vbproj
+2 vCardViewer.vbproj
+2 vb_local_lat.vbproj
+2 vb_local_thr.vbproj
+2 vb_remote_lat.vbproj
+2 vb_remote_thr.vbproj
+2 thund3rTool.vbproj
+2 ScreenWatcherClient.vbproj
+2 ScreenWatcherServer.vbproj
 2 Client.vbproj
 2 TravianReportSearch.vbproj
 2 Spurious DB Converter.vbproj
 2 Extractor.vbproj
 2 WoWFakeClient.vbproj
-2 prjClassDesigner.vbproj
+2 ClickWindow.vbproj
+2 FindText.vbproj
+2 SSSExampleVBnet.vbproj
+2 WriteText.vbproj
+2 iDetector.vbproj
+2 blackbreeze.vbproj
+2 zipfiletest.vbproj
+2 GPS Diagnostics CF (VB.NET).vbproj
+2 GPS Diagnostics (VB.NET).vbproj
 2 OpenSourceKeyProwler.vbproj
 2 Chapter 7 page 398.vbproj
+2 igf.vbproj
+2 igf.Tests.vbproj
+2 Page234No4.vbproj
+2 RateServiceExampleVB.vbproj
+2 SumAndDiffVB.vbproj
+2 xrpgen.vbproj
+2 exceptions_VB.vbproj
+2 2003-VB.Example.vbproj
+2 2005-VB.Example.vbproj
+2 VB.Example.old.vbproj
+1 MSBuild Runner.vbproj
+1 ArmoryInfoDownloader.vbproj
+1 BankParser.vbproj
+1 DataGridViewRadioButton.vbproj
+1 DataGridViewRadioButtonExample.vbproj
+1 Page 118No3.vbproj
+1 Page118No3.vbproj
+1 Page118Num3.vbproj
+1 AuditCommon.vbproj
+1 convertToWord.vbproj
+1 Collage.vbproj
+1 ScreenGrab5.vbproj
+1 ScreenGrab6.Alpha.vbproj
+1 ScreenGrab6.Vector.vbproj
+1 VUMLCodeGeneration.vbproj
+1 AdvancedSearch.vbproj
+1 LABjs.Net.vbproj
+1 LABjs.Sample.vbproj
+1 NetCompressor.vbproj
+1 PowerTag.vbproj
+1 WindowsApplication2.vbproj
+1 WindowsApplication3.vbproj
+1 mykad.runner.vbproj
+1 Tabuk.Mykad.vbproj
+1 Tabuk.MyKad.Reader.vbproj
+1 SecureSyncWrapper.vbproj
+1 Page163Num1.vbproj
+1 Test GIT 2.vbproj
+1 Zeratul.vbproj
+1 flatVB_proj.vbproj
+1 consoleApp2.vbproj
+1 MyLibrary.vbproj
+1 FlatSingleModuleVB.vbproj
+1 MultipleFolderLevelExample.vbproj
+1 SubLevelWebApplication.vbproj
+1 Project1.vbproj
+1 Project2.vbproj
+1 VBWebApplication_Wix.vbproj
+1 DatabaseVersioning.vbproj
+1 DatabaseVersioning.MsSqlDatabaseProvider.vbproj
+1 DatabaseVersioning.Tests.vbproj
+1 Cinch.vbproj
+1 DbVersionConsole.vbproj
+1 Chapter 4 Page 164.vbproj
+1 cc3_img_viewer.vbproj
+1 Page234Num4.vbproj
+1 Chapter 5 Page 234.vbproj
+1 RunSQLOnAccessDatabase.vbproj
+1 xlexport.vbproj
+1 RepStream.vbproj
+1 RateServiceAPI.vbproj
+1 ExampleClientVS7.vbproj
+1 RepairEML.vbproj
+1 AssetManager.vbproj
+1 EncodeHD.vbproj
+1 Matrix Tile Practise.vbproj
+1 GitTest.vbproj
+1 Game.Net.vbproj
+1 DotNetNuke.Announcements.vbproj
+1 DotNetNuke.Announcements.SqlDataProvider.vbproj
+1 ExcelTimetableVB.vbproj
+1 ZGBasic.vbproj
+1 CombatCorps.vbproj
+1 MonoChat.NET.vbproj
+1 DVDImport Advanced.vbproj
+1 MyObjects.vbproj
+1 Medienverwaltung.NetGui.vbproj
+1 DnnMix.Search.DataStore.vbproj
+1 IntelligentMediaPlayer.vbproj
+1 SLXLatandLonLoaderV2.vbproj
+1 NetstatGUI.vbproj
+1 NHWebConsole.Views.vbproj
+1 MyBot.vbproj
+1 checkPingWebAddressExNet.vbproj
+1 KNControls.vbproj
+1 KNControlsTestApp.vbproj
+1 File Comparer.vbproj
+1 CP220-2.Samples.VB.vbproj
+1 Wii Boot2 Detector.vbproj
+1 AcadVaultVersion.vbproj
+1 VaultVersion.vbproj
+1 ServiceStack.OrmLite.FirebirdTests.vbproj
+1 FormFiller.vbproj
+1 LibConvert.vbproj
+1 LibInterop.vbproj
+1 MYPLACE.Net.Server.vbproj
+1 MYPLACE.File.Zip.vbproj
+1 LiNVBLib.vbproj
+1 MYPLACE.Configuration.vbproj
+1 MYPLACE.Shared.vbproj
+1 quickwork.vbproj
+1 renameHtml.vbproj
+1 ScreenReader.vbproj
+1 zhReader.vbproj
+1 folderReadingHelper.vbproj
+1 IReadingHelper.vbproj
+1 zipReadingHelper.vbproj
+1 SmartPaster2010.vbproj
+1 TaskifierV.vbproj
+1 WhatsMyIP.vbproj
+1 pyCrash.vbproj
+1 examples_vb.vbproj
+1 scriptRuntimeLib.vbproj
+1 siaCodeCompiler.vbproj
+1 siaCommonProtocols.vbproj
+1 siaFormDesigner.vbproj
+1 siaGridView.vbproj
+1 siaHexEdit.vbproj
+1 siaIndexList.vbproj
+1 siaRTF.vbproj
+1 siaScriptSyncMini.vbproj
+1 siaSolution.vbproj
+1 siaSkinnable.vbproj
+1 StartUp.vbproj
+1 scriptHostLib.vbproj
+1 ScriptIDE.Main.vbproj
+1 ScriptIDE.Core.vbproj
+1 ScriptIDE.ScriptWindowHelper.vbproj
+1 scriptRuntimeHost.vbproj
+1 VbNetConsoleProject.vbproj
+1 Testing.vbproj
+1 QuickBreeze.vbproj
+1 TellSafevb.vbproj
+1 Website.vbproj
+1 NACO.UnitTest.vbproj
+1 NACO.Data.vbproj
+1 VBDllTest.vbproj
+1 FeedSyncLibrary.vbproj
+1 FeedSyncNotesSample.vbproj
+1 FeedSyncServiceLibrary.vbproj
+1 snmpbulkget.vbproj
+1 snmpget.vbproj
+1 snmpgetnext.vbproj
+1 snmpset.vbproj
+1 snmptranslate.vbproj
+1 snmptrapd.vbproj
+1 snmpwalk.vbproj
+1 YoDawgYoMaker.vbproj
+1 vbtestcli.vbproj
+1 HtmlSweeper.vbproj
+1 DataTest.vbproj
+1 DummyInterface.vbproj
+1 ExcelVB.vbproj
+1 example_executor_vbnet_vs10.vbproj
+1 example_executor_vbnet_vs9.vbproj
+1 OpenCover.Samples.VB.vbproj
+1 TeamDynamix.VcsIntegrationConsole.vbproj
+1 FriedPartsUpdateService.vbproj
+1 BlackJack_With_Structures.vbproj
+1 vbLike.vbproj
+1 WNBAspNet.vbproj
+1 WordNet.Net Colour Formatted Sample.vbproj
+1 WordNetControls.vbproj
+1 WordNet.Net Sample.vbproj
+1 Check Word Defined.vbproj
+1 Get Coordinate Terms for POS.vbproj
+1 WordNet.Net TreeView Sample.vbproj
+1 PerformanceCounter.vbproj
+1 FileReplacement.vbproj
+1 FileReplacement.TestApp.CLI.vbproj
+1 CodeAide.vbproj
+1 EyeSaver.vbproj
+1 FormatGen.vbproj
+1 kAbone.vbproj
+1 Pkmaz.vbproj
+1 Renamer.vbproj
+1 MontyHallSL.vbproj
+1 MontyHallSL.Web.vbproj
+1 ServiceWatcher.vbproj
+1 EMA_Updater.vbproj
+1 StoneTimeBusiness.vbproj
+1 GoogleUrlShortener.vbproj
+1 Wansutter.vbproj
+1 FileExist-O-Tron.vbproj
+1 ReadMACAddress.vbproj
+1 visualbasic.example.client.vbproj
+1 ManagedUserLookup.Console.vbproj
+1 ManagedUserLookup.Library.vbproj
+1 ManagedUserLookup.Test.vbproj
+1 SilverlightDataEntry.vbproj
+1 SilverlightDataEntry.MSTest.vbproj
+1 SilverlightDataEntry.Service.vbproj
+1 HTC_Eris_Master_App.vbproj
+1 Formlets.VB.Tests.vbproj
+1 HtmlHelp2JScriptGlobals.vbproj
+1 VBMultiColTree.vbproj
+1 ImageWebService.vbproj
+1 OpenMapWeb.vbproj
+1 Subspace.TextTemplating.Tests.VB.vbproj
+1 Ultimate IPA Tool.vbproj
+1 imgarch_browser.vbproj
+1 RockBox-PSGroove Installer - Plug-In creator.vbproj
+1 DriveTidy.vbproj
+1 Updater.vbproj
+1 CTools.vbproj
+1 HowToUse_Dll.vbproj
+1 imgArchProd.vbproj
+1 imgArchService.vbproj
+1 img_arch.vbproj
+1 Cloud Jailbreak.vbproj
+1 VBAsync.vbproj
+1 CGridTestProject.vbproj
+1 VB_Control_Library.vbproj
+1 VB_ExcelReport_Library.vbproj
+1 Proxyswitcher.vbproj
+1 TimeMe.vbproj
+1 Seivad.TestApp.Basic.vbproj
+1 AddressStandardizationSolution.vbproj
+1 AddressStandardizationSolutionTest.vbproj
+1 Page398No7.vbproj
+1 compilatudo.vbproj
+1 SampleApp.vbproj
+1 AppendixCVB.vbproj
+1 OfficeInteropDemoVB.vbproj
+1 RuntimeCaching_VB.vbproj
+1 Chapter25ControlsVB.vbproj
+1 AspnetEntityFxVB.vbproj
+1 VBAspnetEntityFxNW.vbproj
+1 Web_ADONETDS_VB.vbproj
+1 GoogleTranslationVB.vbproj
+1 OpenIdRelyingPartyWebFormsVB-vs2008.vbproj
+1 Recovery Mode Kicker.vbproj
+1 RhinoMocksWithVBdotNET.vbproj
+1 Eval3Lib.vbproj
+1 RichText.vbproj
+1 DemoVb.vbproj
+1 Genetibase.ApplicationBlocks.DemoVB.vbproj
+1 Aminoacids.vbproj
+1 Critters.vbproj
+1 Fitness.vbproj
+1 ProFoGA.vbproj
+1 Tester.vbproj
+1 Page118 No2.vbproj
+1 xmlreader_weather.vbproj
+1 FinalProject.vbproj
+1 pim2.vbproj
+1 MischungAppl.vbproj
+1 DILoggingSample.vbproj
+1 Gallery 3 REST Client.vbproj
+1 GalleryLib.vbproj
+1 visualbasic.vbproj
+1 ProxySwitch.vbproj
+1 HelloWorld.vbproj
 1 XmlReader.vbproj
 1 WeatherBug.vbproj
 1 RAL.vbproj
@@ -168,68 +437,20 @@
 1 ImageViewVb.vbproj
 1 AsteriskProxy.vbproj
 1 Weather.vbproj
-1 WebApplication1.vbproj
-1 Chapter16_VbEvents (VS2008).vbproj
-1 Chapter16_VbEvents.vbproj
-1 A4. Stocks - Bob.vbproj
-1 SLAPI REST Tool - VB.vbproj
-1 Nephron.vbproj
-1 giRecovery.vbproj
-1 thund3rTool.vbproj
-1 ScreenWatcherClient.vbproj
-1 ScreenWatcherServer.vbproj
-1 Chapter9VB.vbproj
-1 portalVB.vbproj
-1 Chapter12VB.vbproj
-1 ModularVBSnapIn.vbproj
-1 VBPeople.vbproj
-1 @Daemon.vbproj
-1 Spurious Database Converter.vbproj
-1 ConvertAscent.vbproj
-1 Spurious Control Center.vbproj
-1 Spurious DB Updater.vbproj
-1 VB.Net MPQE.vbproj
-1 @Proxy.vbproj
-1 Risolutore Euqazioni di 2° grado.vbproj
-1 officeauto.vbproj
-1 utilmanPWN.vbproj
-1 CALM_FireTools.vbproj
-1 Biblioteca.vbproj
-1 PomodoroTimer.vbproj
-1 SharpDevelop.EnvDTE.vbproj
-1 Film Canistr.vbproj
-1 zipfiletest.vbproj
-1 openiPwner.vbproj
-1 apptrackr Manager.vbproj
-1 Tile-Generator.vbproj
-1 openiBooty.vbproj
-1 ETSample1_VB.vbproj
-1 iDecrypter.vbproj
-1 Kingbotk Plugin.vbproj
-1 PoisonPhish.vbproj
-1 AdvancedFileFilter.vbproj
-1 iCENTER.vbproj
-1 iAgent.vbproj
-1 openBlackbreeze.vbproj
-1 Pwner.vbproj
-1 Mole.Visualizer.vbproj
-1 HelloIndigo.vbproj
-1 Host.vbproj
-1 Mole.WF.TestBench.vbproj
-1 Mole.WinForms.TestBench.vbproj
-1 Mole.WPF.TestBench.vbproj
-1 MoleASPNETTestBench.vbproj
-1 VBTestRig.vbproj
-1 PasswordManagerBusinessObjects.vbproj
-1 PasswordManagerDataAccess.vbproj
-1 PasswordManagerWin.vbproj
-1 winapp1.vbproj
-1 ClickWindow.vbproj
-1 FindText.vbproj
-1 SSSExampleVBnet.vbproj
-1 WriteText.vbproj
-1 Scrape.vbproj
-1 MangaDownloader.vbproj
+1 xmlreader_console.vbproj
+1 GPS Diagnostics CF20 (VB.NET).vbproj
+1 GPS Diagnostics CF35 (VB.NET).vbproj
+1 GPS Diagnostics DF20 (VB.NET).vbproj
+1 GPS Diagnostics DF35 (VB.NET).vbproj
+1 GPS Diagnostics DF40 (VB.NET).vbproj
+1 SNDoc.vbproj
+1 SNDoc.BusinessP.vbproj
+1 SNDoc.ControlP.vbproj
+1 SNDoc.EntityP.vbproj
+1 SNDoc.MetadatenP.vbproj
+1 SNDoc.PersistenzP.vbproj
+1 SNDoc.UtilsP.vbproj
+1 Noxaros WoW Laucher Update.vbproj
 1 SimpleTextFileHelperVB.vbproj
 1 DotNetNuke.Web.vbproj
 1 DotNetNuke.Library.vbproj
@@ -258,34 +479,41 @@
 1 DotNetNuke.Modules.Html.vbproj
 1 DotNetNuke.Modules.Messaging.vbproj
 1 DotNetNuke.Modules.Taxonomy.vbproj
-1 GPS Diagnostics CF20 (VB.NET).vbproj
-1 GPS Diagnostics CF35 (VB.NET).vbproj
-1 GPS Diagnostics DF20 (VB.NET).vbproj
-1 GPS Diagnostics DF35 (VB.NET).vbproj
-1 GPS Diagnostics DF40 (VB.NET).vbproj
-1 xmlreader_console.vbproj
-1 SNDoc.vbproj
-1 SNDoc.BusinessP.vbproj
-1 SNDoc.ControlP.vbproj
-1 SNDoc.EntityP.vbproj
-1 SNDoc.MetadatenP.vbproj
-1 SNDoc.PersistenzP.vbproj
-1 SNDoc.UtilsP.vbproj
-1 Noxaros WoW Laucher Update.vbproj
-1 QuartzNetWebConsole.Views.vbproj
-1 VBSoapApiDemo.vbproj
-1 iREB.vbproj
-1 HelpStaysClient.vbproj
-1 Launcher.vbproj
-1 cf_script.vbproj
-1 WhatsNewVB10.vbproj
-1 YamlVB.vbproj
-1 Swap.vbproj
-1 Twitterflake.vbproj
-1 vbiRecovery.vbproj
-1 ScriptBuilder_V0.1.vbproj
-1 CSICustomBuilders.vbproj
+1 MangaDownloader.vbproj
+1 Film Canistr.vbproj
+1 SharpDevelop.EnvDTE.vbproj
+1 VBTestRig.vbproj
+1 PasswordManagerBusinessObjects.vbproj
+1 PasswordManagerDataAccess.vbproj
+1 PasswordManagerWin.vbproj
+1 iCENTER.vbproj
+1 iAgent.vbproj
+1 openiBooty.vbproj
+1 ETSample1_VB.vbproj
+1 iDecrypter.vbproj
+1 Kingbotk Plugin.vbproj
+1 PoisonPhish.vbproj
+1 AdvancedFileFilter.vbproj
+1 openBlackbreeze.vbproj
+1 Pwner.vbproj
+1 Mole.Visualizer.vbproj
+1 HelloIndigo.vbproj
+1 Host.vbproj
+1 Mole.WF.TestBench.vbproj
+1 Mole.WinForms.TestBench.vbproj
+1 Mole.WPF.TestBench.vbproj
+1 MoleASPNETTestBench.vbproj
+1 PomodoroTimer.vbproj
+1 Biblioteca.vbproj
+1 winapp1.vbproj
+1 Scrape.vbproj
+1 CALM_FireTools.vbproj
+1 utilmanPWN.vbproj
+1 apptrackr Manager.vbproj
+1 Tile-Generator.vbproj
+1 openiPwner.vbproj
 1 @NICS.vbproj
+1 CSICustomBuilders.vbproj
 1 extract-source.vbproj
 1 msg-generator.vbproj
 1 rt.vbproj
@@ -295,30 +523,83 @@
 1 2010VB_tester_MS.vbproj
 1 2010VB_test_MS_VB.vbproj
 1 2010VB_test_VB.vbproj
+1 vbiRecovery.vbproj
+1 ScriptBuilder_V0.1.vbproj
+1 Twitterflake.vbproj
+1 Swap.vbproj
 1 CafeControl.vbproj
 1 ClientWin.vbproj
 1 Server.vbproj
-1 DBScanalyzer.vbproj
-1 WebControlCaptcha.vbproj
-1 Tracker.vbproj
-1 miptvupdate.vbproj
-1 movieinfoplus.vbproj
-1 ClassLibrary1.vbproj
-1 gbase_demo.vbproj
+1 Chapter9VB.vbproj
+1 portalVB.vbproj
+1 Chapter12VB.vbproj
+1 giRecovery.vbproj
+1 Chapter16_VbEvents (VS2008).vbproj
+1 Chapter16_VbEvents.vbproj
+1 WebApplication1.vbproj
+1 SLAPI REST Tool - VB.vbproj
+1 Nephron.vbproj
+1 A4. Stocks - Bob.vbproj
+1 WhatsNewVB10.vbproj
+1 YamlVB.vbproj
+1 iREB.vbproj
+1 HelpStaysClient.vbproj
+1 Launcher.vbproj
+1 cf_script.vbproj
+1 QuartzNetWebConsole.Views.vbproj
+1 VBSoapApiDemo.vbproj
+1 @Proxy.vbproj
+1 Spurious Database Converter.vbproj
+1 ConvertAscent.vbproj
+1 Spurious Control Center.vbproj
+1 Spurious DB Updater.vbproj
+1 VB.Net MPQE.vbproj
+1 @Daemon.vbproj
+1 officeauto.vbproj
+1 ModularVBSnapIn.vbproj
+1 VBPeople.vbproj
+1 Risolutore Euqazioni di 2° grado.vbproj
+1 Zmanim.Samples.VB.Console.vbproj
+1 Zmanim.Samples.VB.Web.vbproj
+1 OutlookForwarder.vbproj
 1 PacketHandler.vbproj
 1 APRS Analyser.vbproj
 1 Packet Reformatter.vbproj
-1 OutlookForwarder.vbproj
-1 Zmanim.Samples.VB.Console.vbproj
-1 Zmanim.Samples.VB.Web.vbproj
-1 Eignungstest.vbproj
-1 Link-Form.vbproj
-1 HWM_Login.vbproj
-1 PolizeiSoftware.vbproj
-1 GraphLibrary.vbproj
-1 QuakeStats.vbproj
-1 QuakeStatsUnitTests.vbproj
-1 UnitTestingUtilitiesLibrary.vbproj
+1 Alaram Clock.vbproj
+1 vbPng.vbproj
+1 HostBot.vbproj
+1 Forge.Templating.vbproj
+1 Forge.Templating.ConsoleTest.vbproj
+1 Forge.Templating.Tests.vbproj
+1 ProntoCmsWebApplication.vbproj
+1 Empty Project VB.vbproj
+1 Lobster.Framework.vbproj
+1 Lobster.Framework.ClientServices.vbproj
+1 LobsterTestWeb.vbproj
+1 ExcelTweet.vbproj
+1 CodeOfConduct.vbproj
+1 Kafeesa Pharma.vbproj
+1 SimpleGeo.vbproj
+1 Klugesaurus.vbproj
+1 slnCamliftController.vbproj
+1 MelScrobbleWin.vbproj
+1 FolderdateFollowsFiles.vbproj
+1 MonoRail.vbproj
+1 LED-Banden-Demo.vbproj
+1 ConsoleApplication3.vbproj
+1 NerdDinner_vb.vbproj
+1 NerdDinner_vb.Tests.vbproj
+1 x1.vbproj
+1 Custom_RoutedCommand.vbproj
+1 iDisco.vbproj
+1 SyncFrameworkDll.vbproj
+1 SyncFrameworkTest.vbproj
+1 UnitTest.vbproj
+1 UnitTestDll.vbproj
+1 TestProject1.vbproj
+1 TestProject2.vbproj
+1 TextToSpeechWordAddin.vbproj
+1 TestApp.vbproj
 1 MpqLibrary.vbproj
 1 MPQLibraryUnitTests.vbproj
 1 MpqReader.vbproj
@@ -328,189 +609,17 @@
 1 Strilbrary.Tests.vbproj
 1 Tinker.vbproj
 1 TinkerTests.vbproj
-1 TestApp.vbproj
-1 Custom_RoutedCommand.vbproj
-1 TestProject1.vbproj
-1 TestProject2.vbproj
-1 TextToSpeechWordAddin.vbproj
-1 iDisco.vbproj
-1 SyncFrameworkDll.vbproj
-1 SyncFrameworkTest.vbproj
-1 UnitTest.vbproj
-1 UnitTestDll.vbproj
-1 MongoDB.DriverUnitTestsVB.vbproj
-1 x1.vbproj
-1 SimpleGeo.vbproj
-1 MelScrobbleWin.vbproj
-1 Klugesaurus.vbproj
-1 slnCamliftController.vbproj
-1 ExcelTweet.vbproj
-1 CodeOfConduct.vbproj
-1 Lobster.Framework.vbproj
-1 Lobster.Framework.ClientServices.vbproj
-1 LobsterTestWeb.vbproj
-1 ProntoCmsWebApplication.vbproj
-1 Empty Project VB.vbproj
-1 Kafeesa Pharma.vbproj
-1 NerdDinner_vb.vbproj
-1 NerdDinner_vb.Tests.vbproj
-1 ConsoleApplication3.vbproj
-1 MonoRail.vbproj
-1 LED-Banden-Demo.vbproj
-1 FolderdateFollowsFiles.vbproj
-1 Forge.Templating.vbproj
-1 Forge.Templating.ConsoleTest.vbproj
-1 Forge.Templating.Tests.vbproj
-1 HostBot.vbproj
-1 Alaram Clock.vbproj
-1 vbPng.vbproj
-1 CombatCorps.vbproj
-1 MonoChat.NET.vbproj
-1 ZGBasic.vbproj
-1 DVDImport Advanced.vbproj
-1 Game.Net.vbproj
-1 DotNetNuke.Announcements.vbproj
-1 DotNetNuke.Announcements.SqlDataProvider.vbproj
-1 ExcelTimetableVB.vbproj
-1 IntelligentMediaPlayer.vbproj
-1 SLXLatandLonLoaderV2.vbproj
-1 DnnMix.Search.DataStore.vbproj
-1 MyObjects.vbproj
-1 Medienverwaltung.NetGui.vbproj
-1 NetstatGUI.vbproj
-1 NHWebConsole.Views.vbproj
-1 GitTest.vbproj
-1 AssetManager.vbproj
-1 RepairEML.vbproj
-1 EncodeHD.vbproj
-1 Matrix Tile Practise.vbproj
-1 YoDawgYoMaker.vbproj
-1 Website.vbproj
-1 FeedSyncLibrary.vbproj
-1 FeedSyncNotesSample.vbproj
-1 FeedSyncServiceLibrary.vbproj
-1 snmpbulkget.vbproj
-1 snmpget.vbproj
-1 snmpgetnext.vbproj
-1 snmpset.vbproj
-1 snmptranslate.vbproj
-1 snmptrapd.vbproj
-1 snmpwalk.vbproj
-1 NACO.UnitTest.vbproj
-1 NACO.Data.vbproj
-1 VBDllTest.vbproj
-1 Proxyswitcher.vbproj
-1 TimeMe.vbproj
-1 Seivad.TestApp.Basic.vbproj
-1 AddressStandardizationSolution.vbproj
-1 AddressStandardizationSolutionTest.vbproj
-1 RockBox-PSGroove Installer - Plug-In creator.vbproj
-1 DriveTidy.vbproj
-1 Updater.vbproj
-1 CTools.vbproj
-1 imgarch_browser.vbproj
-1 VBAsync.vbproj
-1 CGridTestProject.vbproj
-1 VB_Control_Library.vbproj
-1 VB_ExcelReport_Library.vbproj
-1 HowToUse_Dll.vbproj
-1 Cloud Jailbreak.vbproj
-1 imgArchProd.vbproj
-1 imgArchService.vbproj
-1 img_arch.vbproj
-1 Page398No7.vbproj
-1 HelloWorld.vbproj
-1 visualbasic.vbproj
-1 ProxySwitch.vbproj
-1 AppendixCVB.vbproj
-1 OfficeInteropDemoVB.vbproj
-1 RuntimeCaching_VB.vbproj
-1 Chapter25ControlsVB.vbproj
-1 AspnetEntityFxVB.vbproj
-1 VBAspnetEntityFxNW.vbproj
-1 Web_ADONETDS_VB.vbproj
-1 SampleApp.vbproj
-1 GoogleTranslationVB.vbproj
-1 OpenIdRelyingPartyWebFormsVB-vs2008.vbproj
-1 Recovery Mode Kicker.vbproj
-1 RhinoMocksWithVBdotNET.vbproj
-1 Gallery 3 REST Client.vbproj
-1 GalleryLib.vbproj
-1 Page118 No2.vbproj
-1 xmlreader_weather.vbproj
-1 FinalProject.vbproj
-1 DILoggingSample.vbproj
-1 pim2.vbproj
-1 MischungAppl.vbproj
-1 compilatudo.vbproj
-1 Eval3Lib.vbproj
-1 RichText.vbproj
-1 DemoVb.vbproj
-1 Genetibase.ApplicationBlocks.DemoVB.vbproj
-1 Aminoacids.vbproj
-1 Critters.vbproj
-1 Fitness.vbproj
-1 ProFoGA.vbproj
-1 Tester.vbproj
-1 visualbasic.example.client.vbproj
-1 Wansutter.vbproj
-1 FileExist-O-Tron.vbproj
-1 ReadMACAddress.vbproj
-1 ManagedUserLookup.Console.vbproj
-1 ManagedUserLookup.Library.vbproj
-1 ManagedUserLookup.Test.vbproj
-1 SilverlightDataEntry.vbproj
-1 SilverlightDataEntry.MSTest.vbproj
-1 SilverlightDataEntry.Service.vbproj
-1 SecureSyncWrapper.vbproj
-1 Chapter 4 Page 164.vbproj
-1 DatabaseVersioning.vbproj
-1 DatabaseVersioning.MsSqlDatabaseProvider.vbproj
-1 DatabaseVersioning.Tests.vbproj
-1 Cinch.vbproj
-1 DbVersionConsole.vbproj
-1 cc3_img_viewer.vbproj
-1 Page163Num1.vbproj
-1 Test GIT 2.vbproj
-1 Zeratul.vbproj
-1 flatVB_proj.vbproj
-1 consoleApp2.vbproj
-1 MyLibrary.vbproj
-1 FlatSingleModuleVB.vbproj
-1 MultipleFolderLevelExample.vbproj
-1 SubLevelWebApplication.vbproj
-1 Project1.vbproj
-1 Project2.vbproj
-1 VBWebApplication_Wix.vbproj
-1 Collage.vbproj
-1 ScreenGrab5.vbproj
-1 ScreenGrab6.Alpha.vbproj
-1 ScreenGrab6.Vector.vbproj
-1 VUMLCodeGeneration.vbproj
-1 AdvancedSearch.vbproj
-1 Page 118No3.vbproj
-1 Page118No3.vbproj
-1 Page118Num3.vbproj
-1 AuditCommon.vbproj
-1 convertToWord.vbproj
-1 RunSQLOnAccessDatabase.vbproj
-1 Page234Num4.vbproj
-1 Chapter 5 Page 234.vbproj
-1 xlexport.vbproj
-1 RepStream.vbproj
-1 RateServiceAPI.vbproj
-1 ExampleClientVS7.vbproj
-1 MSBuild Runner.vbproj
-1 ArmoryInfoDownloader.vbproj
-1 BankParser.vbproj
-1 DataGridViewRadioButton.vbproj
-1 DataGridViewRadioButtonExample.vbproj
-1 mykad.runner.vbproj
-1 Tabuk.Mykad.vbproj
-1 Tabuk.MyKad.Reader.vbproj
-1 WindowsApplication2.vbproj
-1 WindowsApplication3.vbproj
-1 PowerTag.vbproj
-1 LABjs.Net.vbproj
-1 LABjs.Sample.vbproj
-1 NetCompressor.vbproj
+1 GraphLibrary.vbproj
+1 QuakeStats.vbproj
+1 QuakeStatsUnitTests.vbproj
+1 UnitTestingUtilitiesLibrary.vbproj
+1 Eignungstest.vbproj
+1 Link-Form.vbproj
+1 HWM_Login.vbproj
+1 PolizeiSoftware.vbproj
+1 Tracker.vbproj
+1 WebControlCaptcha.vbproj
+1 DBScanalyzer.vbproj
+1 miptvupdate.vbproj
+1 movieinfoplus.vbproj
+1 ClassLibrary1.vbproj

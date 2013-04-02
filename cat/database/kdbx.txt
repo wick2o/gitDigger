@@ -1,5 +1,5 @@
-4 test.kdbx
-3 key-only.kdbx
-3 keyfile.kdbx
-2 no-encrypt.kdbx
+7 test.kdbx
+6 key-only.kdbx
+6 keyfile.kdbx
+5 no-encrypt.kdbx
 1 Demo7Pass.kdbx
