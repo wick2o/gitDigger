@@ -7,7 +7,7 @@ mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT count,name FROM use
 mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT count,name FROM salts ORDER BY count DESC' | awk '{print $1" " substr($0, index($0,$2))}' > static_salts.txt
 mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT DISTINCT username FROM projects ORDER BY username ASC' > github_usernames.txt
 mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT DISTINCT name FROM projects ORDER BY name ASC' > github_projectnames.txt
-mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select name from emails' | cut -d '@' -f 1 | awk '{print $1}' | sort -u > email_usernames.txt
+mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select distinct substring_index(name,'@',+1) as uname from emails order by uname asc' > email_usernames.txt
 mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT count,name FROM files ORDER BY count DESC' | awk '{print $1" " substr($0, index($0,$2))}' > all_files.txt
 mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT count,name FROM dirs ORDER BY count DESC' | awk '{print $1" " substr($0, index($0,$2))}' > all_dirs.txt
 
@@ -87,13 +87,13 @@ egrep -i '\.ppk$' all_files.txt > sec/ppk.txt
 
 echo "Pulling updated stats for readme"
 
-mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT count(id) from projects' | awk '{print "Repositories Cloned: "$1}'
-mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select count(id) from projects where processed = 2' | awk '{print "Repositories Processed: "$1}'
-mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select count(distinct username) from projects' | awk '{print "Repository Users: "$1}'
-mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select count(id), sum(count) from passwords' | awk '{print "Passwords Carved: "$1" unique from "$2" total"}'
-mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select count(id), sum(count) from usernames' | awk '{print "Usernames Carved: "$1" unique from "$2" total"}'
-mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select count(id), sum(count) from dirs' | awk '{print "Directories: "$1" unique from "$2" total"}'
-mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select count(id), sum(count) from files' | awk '{print "Files: "$1" unique from "$2" total"}'
-mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select count(id), sum(count) from emails' | awk '{print "Emails: "$1" unique from "$2" total"}'
+mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT format(count(id),0) from projects' | awk '{print "Repositories Cloned: "$1}'
+mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select format(count(id),0) from projects where processed = 2' | awk '{print "Repositories Processed: "$1}'
+mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select format(count(distinct username),0) from projects' | awk '{print "Repository Users: "$1}'
+mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select format(count(id),0), format(sum(count),0) from passwords' | awk '{print "Passwords Carved: "$1" unique from "$2" total"}'
+mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select format(count(id),0), format(sum(count),0) from usernames' | awk '{print "Usernames Carved: "$1" unique from "$2" total"}'
+mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select format(count(id),0), format(sum(count),0) from dirs' | awk '{print "Directories: "$1" unique from "$2" total"}'
+mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select format(count(id),0), format(sum(count),0) from files' | awk '{print "Files: "$1" unique from "$2" total"}'
+mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select format(count(id),0), format(sum(count),0) from emails' | awk '{print "Emails: "$1" unique from "$2" total"}'
 
 echo "done"
