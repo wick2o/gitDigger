@@ -7,7 +7,7 @@ mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT count,name FROM use
 mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT count,name FROM salts ORDER BY count DESC' | awk '{print $1" " substr($0, index($0,$2))}' > static_salts.txt
 mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT DISTINCT username FROM projects ORDER BY username ASC' > github_usernames.txt
 mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT DISTINCT name FROM projects ORDER BY name ASC' > github_projectnames.txt
-mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'select distinct substring_index(name,'@',+1) as uname from emails order by uname asc' > email_usernames.txt
+mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT count,name FROM emails ORDER BY count DESC' | awk '{print $1" " substr($0, index($0,$2))}' > email_usernames.txt
 mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT count,name FROM files ORDER BY count DESC' | awk '{print $1" " substr($0, index($0,$2))}' > all_files.txt
 mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT count,name FROM dirs ORDER BY count DESC' | awk '{print $1" " substr($0, index($0,$2))}' > all_dirs.txt
 

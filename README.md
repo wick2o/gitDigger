@@ -4,6 +4,7 @@ gitDigger
 gitDigger: Creating realworld wordlists from github hosted data.
 
     Link to donate HD space:  http://amzn.com/w/26WAWGAC1QK7R
+	Paypal donations: wick2o@gmail.com
 
     Wordlists:
 		all_dirs.txt: All directories found inside of github projects.
@@ -21,12 +22,12 @@ gitDigger: Creating realworld wordlists from github hosted data.
 Database Stats:
 ===============
 
-	Repositories Cloned: 543,186
-	Repositories Processed: 503,673
-	Repository Users: 186,204
-	Passwords Carved: 8,346 unique from 872,396 total
-	Usernames Carved: 8,035 unique from 771,680 total
-	Directories: 721,744 unique from 30,626,631 total
-	Files: 14,106,838 unique from 160,654,804 total
-	Emails: 170,262 unique from 9,323,595 total
-	Estimated Space Used: 6.5 TB
+	Repositories Cloned: 746,854
+	Repositories Processed: 746,452
+	Repository Users: 247,373
+	Passwords Carved: 12,769 unique from 1,574,626 total
+	Usernames Carved: 12,933 unique from 1,170,624 total
+	Directories: 966,439 unique from 47,365,030 total
+	Files: 19,260,460 unique from 256,373,340 total
+	Emails: 199,205 unique from 11,220,612 total
+	Estimated Space Used: 10 TB

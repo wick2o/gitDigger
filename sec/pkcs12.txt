@@ -1,1 +1,2 @@
-4 ssl.pkcs12
+7 ssl.pkcs12
+1 jetty.pkcs12
