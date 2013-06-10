@@ -29,5 +29,5 @@ Database Stats:
 	Usernames Carved: 12,933 unique from 1,170,624 total
 	Directories: 966,439 unique from 47,365,030 total
 	Files: 19,260,460 unique from 256,373,340 total
-	Emails: 199,205 unique from 11,220,612 total
+	Emails: 222,669 unique from 12,921,018 total
 	Estimated Space Used: 10 TB
