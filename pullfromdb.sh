@@ -32,6 +32,7 @@ egrep -i '\.config$' all_files.txt > cat/conf/config.txt
 egrep -i '\.htaccess$' all_files.txt > cat/conf/htaccess.txt
 egrep -i '\.properties$' all_files.txt > cat/conf/properties.txt
 
+egrep -i '\.csv$' all_files.txt > cat/database/csv.txt
 egrep -i '\.inc$' all_files.txt > cat/database/inc.txt
 egrep -i '\.ini$' all_files.txt > cat/database/ini.txt
 egrep -i '\.mdb$' all_files.txt > cat/database/mdb.txt
@@ -39,6 +40,7 @@ egrep -i '\.mdf$' all_files.txt > cat/database/mdf.txt
 egrep -i '\.sql$' all_files.txt > cat/database/sql.txt
 egrep -i '\.xml$' all_files.txt > cat/database/xml.txt
 egrep -i '\.kdbx$' all_files.txt > cat/database/kdbx.txt
+egrep -i '\.md$' all_files.txt > cat/database/md.txt
 
 egrep -i '\.ascx$' all_files.txt > cat/language/ascx.txt
 egrep -i '\.asp$' all_files.txt > cat/language/asp.txt
@@ -49,6 +51,7 @@ egrep -i '\.cpp$' all_files.txt > cat/language/cpp.txt
 egrep -i '\.cs$' all_files.txt > cat/language/cs.txt
 egrep -i '\.css$' all_files.txt > cat/language/css.txt
 egrep -i '\.html$' all_files.txt > cat/language/html.txt
+egrep -i '\.h$' all_files.txt > cat/language/h.txt
 egrep -i '\.jar$' all_files.txt > cat/language/jar.txt
 egrep -i '\.java$' all_files.txt > cat/language/java.txt
 egrep -i '\.js$' all_files.txt > cat/language/js.txt
@@ -58,6 +61,8 @@ egrep -i '\.php3$' all_files.txt > cat/language/php3.txt
 egrep -i '\.php5$' all_files.txt > cat/language/php5.txt
 egrep -i '\.phpt$' all_files.txt > cat/language/phpt.txt
 egrep -i '\.pl$' all_files.txt > cat/language/pl.txt
+egrep -i '\.pm$' all_files.txt > cat/language/pm.txt
+egrep -i '\.pod$' all_files.txt > cat/language/pod.txt
 egrep -i '\.py$' all_files.txt > cat/language/py.txt
 egrep -i '\.rb$' all_files.txt > cat/language/rb.txt
 egrep -i '\.sh$' all_files.txt > cat/language/sh.txt
@@ -72,6 +77,7 @@ egrep -i '\.resx$' all_files.txt > cat/project/resx.txt
 egrep -i '\.sln$' all_files.txt > cat/project/sln.txt
 egrep -i '\.suo$' all_files.txt > cat/project/suo.txt
 egrep -i '\.vbproj$' all_files.txt > cat/project/vbproj.txt
+egrep -i '\.class$' all_files.txt > cat/language/class.txt
 
 egrep -i '\.pem$' all_files.txt > sec/pem.txt
 egrep -i '\.cer$' all_files.txt > sec/cer.txt
