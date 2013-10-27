@@ -5,34 +5,47 @@ db_host="172.16.1.122"
 db_user="root"
 db_pass="toor"
 db_name="gitdigger"
+db_namebb="bitdigger"
 
 echo "Dumping:"
 
-##echo "    Github Usernames..." 
-##mysql -h$db_host -u$db_user -p$db_pass -D$db_name -N -e 'SELECT DISTINCT username FROM projects ORDER BY username ASC' > github-usernames.txt
-##tar -czf github-usernames.tar.gz github-usernames.txt
-##rm github-usernames.txt
+echo "    Github Usernames..." 
+mysql -h$db_host -u$db_user -p$db_pass -D$db_name -N -e 'SELECT DISTINCT username FROM projects ORDER BY username ASC' > github-usernames.txt
+tar -czf github-usernames.tar.gz github-usernames.txt
+rm github-usernames.txt
 
-##echo "    Github Repositores..."
-##mysql -h$db_host -u$db_user -p$db_pass -D$db_name -N -e 'SELECT DISTINCT name FROM projects ORDER BY username ASC' > github-repositories.txt
-##tar -czf github-repositories.tar.gz github-repositories.txt
-##rm github-repositories.txt
+echo "    Github Repositores..."
+mysql -h$db_host -u$db_user -p$db_pass -D$db_name -N -e 'SELECT DISTINCT name FROM projects ORDER BY username ASC' > github-repositories.txt
+tar -czf github-repositories.tar.gz github-repositories.txt
+rm github-repositories.txt
 
-##echo "    All Directories with Counts..."
-##mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT count,name FROM dirs ORDER BY count DESC' | awk '{print $1" " substr($0, index($0,$2))}' > all_dirs-wc.txt
-##tar -czf all_dirs-wc.tar.gz all_dirs-wc.txt
-##rm all_dirs-wc.txt
+echo "    All Directories with Counts..."
+mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT count,name FROM dirs ORDER BY count DESC' | awk '{print $1" " substr($0, index($0,$2))}' > all_dirs-wc.txt
+tar -czf all_dirs-wc.tar.gz all_dirs-wc.txt
+rm all_dirs-wc.txt
 
-##echo "    All Directories without Counts..."
-##mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT name FROM dirs ORDER BY count DESC' > all_dirs.txt
-##tar -czf all_dirs.tar.gz all_dirs.txt
-##rm all_dirs.txt
+echo "    All Directories without Counts..."
+mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT name FROM dirs ORDER BY count DESC' > all_dirs.txt
+tar -czf all_dirs.tar.gz all_dirs.txt
+rm all_dirs.txt
 
-##echo "    All Files with Counts..."
-##mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT count,name FROM files ORDER BY count DESC' | awk '{print $1" " substr($0, index($0,$2))}' > all_files-wc.txt
+echo "    All Files with Counts..."
+mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT count,name FROM files ORDER BY count DESC' | awk '{print $1" " substr($0, index($0,$2))}' > all_files-wc.txt
 
-##echo "    All Files without Counts..."
-##mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT name FROM files ORDER BY count DESC' > all_files.txt
+echo "    All Files without Counts..."
+mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT name FROM files ORDER BY count DESC' > all_files.txt
+
+echo "    BitBucket Usernames..." 
+mysql -h$db_host -u$db_user -p$db_pass -D$db_namebb -N -e 'SELECT DISTINCT name FROM bb_users ORDER BY name ASC' > bitbucket-usernames.txt
+tar -czf bitbucket-usernames.tar.gz bitbucket-usernames.txt
+rm bitbucket-usernames.txt
+
+echo "    BitBucket Repositores..."
+mysql -h$db_host -u$db_user -p$db_pass -D$db_namebb -N -e 'SELECT DISTINCT name FROM bb_projects ORDER BY name ASC' > bitbucket-repositories.txt
+tar -czf bitbucket-repositories.tar.gz bitbucket-repositories.txt
+rm bitbucket-repositories.txt
+
+
 
 echo "    Creating Sub Files..."
 mkdir -p content
