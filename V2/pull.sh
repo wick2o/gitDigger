@@ -36,7 +36,7 @@ echo "    All Files without Counts..."
 mysql -h172.16.1.122 -uroot -ptoor -Dgitdigger -N -e 'SELECT name FROM files ORDER BY count DESC' > all_files.txt
 
 echo "    BitBucket Usernames..." 
-mysql -h$db_host -u$db_user -p$db_pass -D$db_namebb -N -e 'SELECT DISTINCT name FROM bb_users ORDER BY name ASC' > bitbucket-usernames.txt
+mysql -h$db_host -u$db_user -p$db_pass -D$db_namebb -N -e 'SELECT DISTINCT name FROM bb_users WHERE scanned=1 ORDER BY name ASC' > bitbucket-usernames.txt
 tar -czf bitbucket-usernames.tar.gz bitbucket-usernames.txt
 rm bitbucket-usernames.txt
 
